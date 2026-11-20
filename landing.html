@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Conheça o projeto Plágio: não copie essa ideia e os materiais sobre integridade acadêmica.">
+  <title>Plágio: não copie essa ideia — Projeto e integridade acadêmica</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/landing/landing.css">
+  <link rel="stylesheet" href="css/landing/landing-responsive.css">
+  <script src="js/landing.js" defer></script>
+  <script type="module" src="js/theme.js"></script>
+  <link rel="icon" href="favicon.ico">
+</head>
+<body class="landing-page" id="landing-top">
+  <a class="landing-skip-link" href="#landing-main">Ir para o conteúdo principal</a>
+
+  <header class="landing-header" id="landing-header">
+    <nav class="landing-nav" aria-label="Navegação institucional">
+      <a class="landing-nav__brand" href="#inicio" aria-label="Plágio: não copie essa ideia — início">
+        <img
+          src="assets/landing/logo-plagio.webp"
+          width="479"
+          height="177"
+          alt="Plágio: não copie essa ideia"
+          fetchpriority="high"
+        >
+      </a>
+
+      <button
+        class="landing-nav__toggle"
+        id="landing-nav-toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="landing-navigation"
+      >
+        <span class="landing-sr-only">Abrir menu</span>
+        <span class="landing-nav__toggle-line" aria-hidden="true"></span>
+        <span class="landing-nav__toggle-line" aria-hidden="true"></span>
+        <span class="landing-nav__toggle-line" aria-hidden="true"></span>
+      </button>
+
+      <div class="landing-nav__links" id="landing-navigation">
+        <a href="sobre.html">Sobre</a>
+        <a href="equipe.html">Equipe</a>
+        <a href="cartilha.html">Cartilha</a>
+        <a href="parceiros.html">Parceiros</a>
+        <a href="materiais.html">Materiais</a>
+        <a href="perguntas-frequentes.html">Perguntas</a>
+        <button class="landing-theme-toggle" id="theme-toggle" type="button" aria-label="Alternar tema">
+          <span class="icon-moon" aria-hidden="true">Lua</span>
+          <span class="icon-sun" aria-hidden="true">Sol</span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="landing-main">
+    <section class="landing-hero" id="inicio" aria-labelledby="landing-title">
+      <div class="landing-hero__grain" aria-hidden="true"></div>
+      <div class="landing-hero__content">
+        <p class="landing-hero__eyebrow">Integridade acadêmica · UTFPR Ponta Grossa</p>
+        <h1 id="landing-title">Plágio: <em>não copie<br>essa ideia</em></h1>
+        <p class="landing-hero__lead">
+          Conheça o projeto, aprenda práticas de pesquisa responsável e explore
+          os materiais sobre integridade acadêmica.
+        </p>
+        <div class="landing-hero__actions" aria-label="Ações principais">
+          <a class="landing-button landing-button--secondary" href="#projeto">
+            Conhecer o projeto
+          </a>
+        </div>
+      </div>
+      <a class="landing-scroll-cue" href="#projeto">
+        <span>Descubra pelas raízes</span>
+        <span class="landing-scroll-cue__line" aria-hidden="true"></span>
+      </a>
+    </section>
+
+    <div class="landing-tree" id="landing-tree">
+      <svg
+        class="landing-tree__svg"
+        id="landing-tree-svg"
+        viewBox="0 0 1000 6600"
+        preserveAspectRatio="none"
+        xmlns="http://www.w3.org/2000/svg"
+        aria-hidden="true"
+        focusable="false"
+      >
+        <defs>
+          <clipPath id="landing-trunk-reveal">
+            <rect id="landing-reveal-rect" x="0" y="0" width="1000" height="0"></rect>
+          </clipPath>
+          <clipPath id="landing-trunk-clip">
+            <polygon id="landing-trunk-clip-shape" points=""></polygon>
+          </clipPath>
+          <linearGradient id="landing-soil-deep" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#3d2b1a"></stop>
+            <stop offset="0.4" stop-color="#2a1c10"></stop>
+            <stop offset="1" stop-color="#0d0804"></stop>
+          </linearGradient>
+          <linearGradient id="landing-root-gradient" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#c49a6c" stop-opacity="0.85"></stop>
+            <stop offset="0.4" stop-color="#9a7050" stop-opacity="0.55"></stop>
+            <stop offset="1" stop-color="#5a4030" stop-opacity="0.15"></stop>
+          </linearGradient>
+          <g id="landing-needle-tuft">
+            <path class="landing-tree__needle landing-tree__needle--dark" d="M 0 0 C -20 -25, -52 -48, -72 -58"></path>
+            <path class="landing-tree__needle landing-tree__needle--dark" d="M 0 0 C -14 -34, -34 -72, -44 -92"></path>
+            <path class="landing-tree__needle landing-tree__needle--dark" d="M 0 0 C -4 -38, -10 -80, -12 -104"></path>
+            <path class="landing-tree__needle landing-tree__needle--dark" d="M 0 0 C 4 -38, 12 -80, 16 -102"></path>
+            <path class="landing-tree__needle landing-tree__needle--dark" d="M 0 0 C 14 -34, 36 -70, 48 -88"></path>
+            <path class="landing-tree__needle landing-tree__needle--dark" d="M 0 0 C 20 -24, 54 -46, 74 -54"></path>
+            <path class="landing-tree__needle landing-tree__needle--mid" d="M 0 0 C -16 -22, -40 -42, -56 -50"></path>
+            <path class="landing-tree__needle landing-tree__needle--mid" d="M 0 0 C -8 -30, -20 -60, -26 -78"></path>
+            <path class="landing-tree__needle landing-tree__needle--mid" d="M 0 0 C 2 -32, 4 -66, 4 -84"></path>
+            <path class="landing-tree__needle landing-tree__needle--mid" d="M 0 0 C 10 -28, 26 -56, 34 -72"></path>
+            <path class="landing-tree__needle landing-tree__needle--mid" d="M 0 0 C 16 -20, 42 -38, 58 -46"></path>
+            <path class="landing-tree__needle landing-tree__needle--light" d="M 0 0 C -10 -20, -24 -40, -32 -52"></path>
+            <path class="landing-tree__needle landing-tree__needle--light" d="M 0 0 C -2 -24, -6 -50, -8 -64"></path>
+            <path class="landing-tree__needle landing-tree__needle--light" d="M 0 0 C 6 -22, 16 -46, 22 -58"></path>
+          </g>
+        </defs>
+
+        <g clip-path="url(#landing-trunk-reveal)">
+          <rect x="-100" y="5850" width="1200" height="1350" fill="url(#landing-soil-deep)"></rect>
+          <polygon id="landing-trunk-shape" class="landing-tree__trunk" points=""></polygon>
+          <g id="landing-bark-texture" clip-path="url(#landing-trunk-clip)"></g>
+          <g
+            id="landing-root-system"
+            fill="none"
+            stroke="url(#landing-root-gradient)"
+            stroke-linecap="round"
+          ></g>
+          <g id="landing-soil-layers"></g>
+          <g id="landing-branches"></g>
+        </g>
+      </svg>
+
+      <section
+        class="landing-branch-section landing-branch-section--right"
+        id="projeto"
+        data-landing-target="landing-branch-1"
+        aria-labelledby="landing-project-title"
+      >
+        <article class="landing-card">
+          <p class="landing-card__number">01 · O projeto</p>
+          <h2 id="landing-project-title">Integridade acadêmica na prática</h2>
+          <p>
+            Uma iniciativa de extensão da UTFPR campus Ponta Grossa que aproxima
+            pesquisa, formação e orientação para trabalhos acadêmicos originais.
+          </p>
+          <a class="landing-card__link" href="sobre.html">Conhecer o projeto</a>
+        </article>
+      </section>
+
+      <section
+        class="landing-branch-section landing-branch-section--left"
+        id="conteudo"
+        data-landing-target="landing-branch-2"
+        aria-labelledby="landing-content-title"
+      >
+        <article class="landing-card">
+          <p class="landing-card__number">02 · O que você aprende</p>
+          <h2 id="landing-content-title">Da referência à escrita responsável</h2>
+          <p>
+            Conceitos de integridade, formas de citação, organização da pesquisa,
+            prevenção ao plágio e ferramentas para revisar a autenticidade do trabalho.
+          </p>
+        </article>
+      </section>
+
+      <section
+        class="landing-branch-section landing-branch-section--right"
+        id="cartilha"
+        data-landing-target="landing-branch-3"
+        aria-labelledby="landing-guide-title"
+      >
+        <article class="landing-card">
+          <p class="landing-card__number">03 · A cartilha</p>
+          <h2 id="landing-guide-title">Um guia para consultar durante a escrita</h2>
+          <p>
+            O projeto reúne exemplos, orientações e materiais de apoio para transformar
+            normas acadêmicas em decisões mais seguras no dia a dia.
+          </p>
+          <a class="landing-card__link" href="cartilha.html">Conhecer a cartilha</a>
+        </article>
+      </section>
+
+      <section
+        class="landing-branch-section landing-branch-section--left"
+        id="integridade"
+        data-landing-target="landing-branch-4"
+        aria-labelledby="landing-integrity-title"
+      >
+        <article class="landing-card">
+          <p class="landing-card__number">04 · Atenção</p>
+          <h2 id="landing-integrity-title">Conhecer as regras também é prevenção</h2>
+          <p>
+            Erros de citação, paráfrases inadequadas e reutilização sem indicação podem
+            comprometer um trabalho. Informação clara fortalece escolhas responsáveis.
+          </p>
+          <a class="landing-card__link" href="perguntas-frequentes.html">Consultar perguntas frequentes</a>
+        </article>
+      </section>
+
+      <section
+        class="landing-branch-section landing-branch-section--right"
+        id="instituicao"
+        data-landing-target="landing-branch-5"
+        aria-labelledby="landing-institution-title"
+      >
+        <article class="landing-card">
+          <p class="landing-card__number">05 · Instituição e equipe</p>
+          <h2 id="landing-institution-title">Um projeto com raízes nos Campos Gerais</h2>
+          <p>
+            A identidade regional da araucária representa uma formação que cresce a
+            partir de bases sólidas: autoria, ética, pesquisa e responsabilidade.
+          </p>
+          <a class="landing-card__link" href="equipe.html">Conhecer a equipe</a>
+        </article>
+      </section>
+
+      <section
+        class="landing-branch-section landing-branch-section--left"
+        id="curso"
+        data-landing-target="landing-branch-6"
+        aria-labelledby="landing-course-title"
+      >
+        <article class="landing-card">
+          <p class="landing-card__number">06 · Próximo passo</p>
+          <h2 id="landing-course-title">Pratique a escrita responsável</h2>
+          <p>
+            Aplique os conceitos de autoria, citação e pesquisa responsável
+            na construção de trabalhos acadêmicos originais.
+          </p>
+        </article>
+      </section>
+
+      <section class="landing-roots" aria-labelledby="landing-roots-title">
+        <div class="landing-roots__art" aria-hidden="true">
+          <svg
+            viewBox="0 0 1200 800"
+            preserveAspectRatio="xMidYMin slice"
+            xmlns="http://www.w3.org/2000/svg"
+            focusable="false"
+          >
+            <defs>
+              <linearGradient id="landing-roots-overlay-main" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0" stop-color="#c49a6c" stop-opacity="0.28"></stop>
+                <stop offset="0.6" stop-color="#8a6040" stop-opacity="0.14"></stop>
+                <stop offset="1" stop-color="#4a3020" stop-opacity="0.03"></stop>
+              </linearGradient>
+              <linearGradient id="landing-roots-overlay-secondary" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0" stop-color="#b08850" stop-opacity="0.18"></stop>
+                <stop offset="1" stop-color="#5a3a20" stop-opacity="0.02"></stop>
+              </linearGradient>
+            </defs>
+            <g fill="none" stroke-linecap="round">
+              <path d="M600 0 Q520 80 420 180 Q300 300 180 420 Q80 520 -20 640" stroke="url(#landing-roots-overlay-main)" stroke-width="36"></path>
+              <path d="M590 20 Q500 120 400 240 Q300 360 200 480 Q120 570 40 680" stroke="url(#landing-roots-overlay-secondary)" stroke-width="20"></path>
+              <path d="M420 180 Q360 230 280 260 Q180 290 60 295" stroke="url(#landing-roots-overlay-secondary)" stroke-width="11"></path>
+              <path d="M300 360 Q240 400 160 420 Q80 435 -20 430" stroke="url(#landing-roots-overlay-secondary)" stroke-width="7"></path>
+              <path d="M600 0 Q680 80 780 180 Q900 300 1020 420 Q1120 520 1220 640" stroke="url(#landing-roots-overlay-main)" stroke-width="36"></path>
+              <path d="M610 20 Q700 120 800 240 Q900 360 1000 480 Q1080 570 1160 680" stroke="url(#landing-roots-overlay-secondary)" stroke-width="20"></path>
+              <path d="M780 180 Q840 230 920 260 Q1020 290 1140 295" stroke="url(#landing-roots-overlay-secondary)" stroke-width="11"></path>
+              <path d="M900 360 Q960 400 1040 420 Q1120 435 1220 430" stroke="url(#landing-roots-overlay-secondary)" stroke-width="7"></path>
+              <path d="M600 0 Q598 120 594 280 Q590 460 584 660" stroke="url(#landing-roots-overlay-main)" stroke-width="28"></path>
+              <path d="M594 280 Q540 380 460 480 Q380 570 280 650" stroke="url(#landing-roots-overlay-secondary)" stroke-width="11"></path>
+              <path d="M594 280 Q650 380 720 480 Q800 570 900 650" stroke="url(#landing-roots-overlay-secondary)" stroke-width="11"></path>
+            </g>
+          </svg>
+        </div>
+
+        <div class="landing-roots__content">
+          <p class="landing-roots__eyebrow">Da raiz à autoria</p>
+          <h2 id="landing-roots-title">Crie raízes fortes.<br>Eleve sua originalidade.</h2>
+          <p>
+            Assim como a araucária dos Campos Gerais, um trabalho acadêmico íntegro
+            se sustenta pela base. Explore o projeto e fortaleça suas práticas de autoria.
+          </p>
+        </div>
+
+        <footer class="landing-footer">
+          <p>© 2026 · Projeto Plágio: não copie essa ideia · UTFPR campus Ponta Grossa</p>
+          <nav class="landing-footer__links" aria-label="Links institucionais e sociais">
+
+            <a href="sobre.html">Sobre</a>
+            <a href="equipe.html">Equipe</a>
+            <a href="materiais.html">Materiais</a>
+            <a
+              href="https://www.instagram.com/plagio.utfpr/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >Instagram <span aria-hidden="true">↗</span></a>
+            <a
+              href="https://www.youtube.com/@plagioutfpr"
+              target="_blank"
+              rel="noopener noreferrer"
+            >YouTube <span aria-hidden="true">↗</span></a>
+          </nav>
+        </footer>
+      </section>
+    </div>
+  </main>
+</body>
+</html>

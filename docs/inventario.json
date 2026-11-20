@@ -1,0 +1,438 @@
+{
+  "origem_raiz": "/mnt/disco/projetoSite/plataforma_cursos/src/public",
+  "entrada": "index.html",
+  "arquivos_copiados": [
+    {
+      "destino": "assets/institucional/README.md",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/README.md",
+      "bytes": 872,
+      "sha256_origem": "feb6e8330c440794f9970709dce7b2d908af323648e9209fd9925626ab03bb1b",
+      "sha256_destino": "feb6e8330c440794f9970709dce7b2d908af323648e9209fd9925626ab03bb1b",
+      "alterado": false,
+      "bytes_destino": 872
+    },
+    {
+      "destino": "assets/institucional/alexandre-costa.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/alexandre-costa.webp",
+      "bytes": 72990,
+      "sha256_origem": "85f4e8f5955cf9ff017337c789f5685772f4da53ba44f2b5b902d51ebcca5c10",
+      "sha256_destino": "85f4e8f5955cf9ff017337c789f5685772f4da53ba44f2b5b902d51ebcca5c10",
+      "alterado": false,
+      "bytes_destino": 72990
+    },
+    {
+      "destino": "assets/institucional/daniel-passos.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/daniel-passos.webp",
+      "bytes": 15718,
+      "sha256_origem": "dcf9fe902446383cdb5814432d9062c31a7b27f90267c142f1cfe1c167bdf281",
+      "sha256_destino": "dcf9fe902446383cdb5814432d9062c31a7b27f90267c142f1cfe1c167bdf281",
+      "alterado": false,
+      "bytes_destino": 15718
+    },
+    {
+      "destino": "assets/institucional/edna-ferreira-silva.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/edna-ferreira-silva.webp",
+      "bytes": 21110,
+      "sha256_origem": "725d28b31ef381970096d3e571f9f19703a3d90804b642d9c574946bfff7aec0",
+      "sha256_destino": "725d28b31ef381970096d3e571f9f19703a3d90804b642d9c574946bfff7aec0",
+      "alterado": false,
+      "bytes_destino": 21110
+    },
+    {
+      "destino": "assets/institucional/fabiana-pinheiro.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/fabiana-pinheiro.webp",
+      "bytes": 17792,
+      "sha256_origem": "fe15201fa0192c399122a825135e16e39a7f793fc6533efa18fa46b00ab9dd71",
+      "sha256_destino": "fe15201fa0192c399122a825135e16e39a7f793fc6533efa18fa46b00ab9dd71",
+      "alterado": false,
+      "bytes_destino": 17792
+    },
+    {
+      "destino": "assets/institucional/faculdade-guarapuava.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/faculdade-guarapuava.webp",
+      "bytes": 9834,
+      "sha256_origem": "61fe90df775d31045b4575bf5ac95a68dddb52489104a0c08aca6b4beea1d310",
+      "sha256_destino": "61fe90df775d31045b4575bf5ac95a68dddb52489104a0c08aca6b4beea1d310",
+      "alterado": false,
+      "bytes_destino": 9834
+    },
+    {
+      "destino": "assets/institucional/fundacao-araucaria.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/fundacao-araucaria.webp",
+      "bytes": 22018,
+      "sha256_origem": "adb2bfe3e6b758d3f36dbfd6c98754068d4477d652681f081c0364e79f980ff4",
+      "sha256_destino": "adb2bfe3e6b758d3f36dbfd6c98754068d4477d652681f081c0364e79f980ff4",
+      "alterado": false,
+      "bytes_destino": 22018
+    },
+    {
+      "destino": "assets/institucional/joao-paulo-aires.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/joao-paulo-aires.webp",
+      "bytes": 32038,
+      "sha256_origem": "97dc489402472cee6b0db52f9334316e087413394ae7158720013568845c9d5a",
+      "sha256_destino": "97dc489402472cee6b0db52f9334316e087413394ae7158720013568845c9d5a",
+      "alterado": false,
+      "bytes_destino": 32038
+    },
+    {
+      "destino": "assets/institucional/maria-eduarda-macedo.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/maria-eduarda-macedo.webp",
+      "bytes": 40124,
+      "sha256_origem": "2d8a21b35956ead8876e8ddd01dbe0593e4e61aeab18c32c00c435bd1044de37",
+      "sha256_destino": "2d8a21b35956ead8876e8ddd01dbe0593e4e61aeab18c32c00c435bd1044de37",
+      "alterado": false,
+      "bytes_destino": 40124
+    },
+    {
+      "destino": "assets/institucional/material-identifica.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/material-identifica.webp",
+      "bytes": 78590,
+      "sha256_origem": "9b88b1e8bf45e5d66a1e4539843f2bae87e4d6afbb851361e035d0a81a773bf7",
+      "sha256_destino": "9b88b1e8bf45e5d66a1e4539843f2bae87e4d6afbb851361e035d0a81a773bf7",
+      "alterado": false,
+      "bytes_destino": 78590
+    },
+    {
+      "destino": "assets/institucional/material-marionete.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/material-marionete.webp",
+      "bytes": 96890,
+      "sha256_origem": "09e4ea35570df4db39ec72db062add5d065a7fa53e80ee95a5b8cdebc4525279",
+      "sha256_destino": "09e4ea35570df4db39ec72db062add5d065a7fa53e80ee95a5b8cdebc4525279",
+      "alterado": false,
+      "bytes_destino": 96890
+    },
+    {
+      "destino": "assets/institucional/material-mascara.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/material-mascara.webp",
+      "bytes": 71950,
+      "sha256_origem": "853f0c72761f1594a4b17333add81bef12874e0322d1e1d385b40ac669d0f658",
+      "sha256_destino": "853f0c72761f1594a4b17333add81bef12874e0322d1e1d385b40ac669d0f658",
+      "alterado": false,
+      "bytes_destino": 71950
+    },
+    {
+      "destino": "assets/institucional/material-originalidade.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/material-originalidade.webp",
+      "bytes": 92634,
+      "sha256_origem": "5f4bd5fa5f1ef036ab1770c8f5a0ebd5f5b1aa15f6b23d03aed5536fa0ea8b53",
+      "sha256_destino": "5f4bd5fa5f1ef036ab1770c8f5a0ebd5f5b1aa15f6b23d03aed5536fa0ea8b53",
+      "alterado": false,
+      "bytes_destino": 92634
+    },
+    {
+      "destino": "assets/institucional/material-xadrez.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/material-xadrez.webp",
+      "bytes": 89734,
+      "sha256_origem": "31cfda3ab8d87c0c6d10cfddcc85249f37af09c7ab39b20f1a432f6ef65dc5c0",
+      "sha256_destino": "31cfda3ab8d87c0c6d10cfddcc85249f37af09c7ab39b20f1a432f6ef65dc5c0",
+      "alterado": false,
+      "bytes_destino": 89734
+    },
+    {
+      "destino": "assets/institucional/ppgect.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/ppgect.webp",
+      "bytes": 31528,
+      "sha256_origem": "1ab2fba08e824ba02e496df6dee20c7e632cdc43884f753ab400b2e14c755b2a",
+      "sha256_destino": "1ab2fba08e824ba02e496df6dee20c7e632cdc43884f753ab400b2e14c755b2a",
+      "alterado": false,
+      "bytes_destino": 31528
+    },
+    {
+      "destino": "assets/institucional/uniguairaca.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/uniguairaca.webp",
+      "bytes": 11450,
+      "sha256_origem": "0b9b3ddbc27e271f56e33f1d32d936c20f9b72c023a6f69d73c6398016634cb0",
+      "sha256_destino": "0b9b3ddbc27e271f56e33f1d32d936c20f9b72c023a6f69d73c6398016634cb0",
+      "alterado": false,
+      "bytes_destino": 11450
+    },
+    {
+      "destino": "assets/institucional/utfpr.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/institucional/utfpr.webp",
+      "bytes": 22630,
+      "sha256_origem": "b95a7972a40299d5b4ac2731fc37246bf83b67a78beb00e07456a182cccd6fe6",
+      "sha256_destino": "b95a7972a40299d5b4ac2731fc37246bf83b67a78beb00e07456a182cccd6fe6",
+      "alterado": false,
+      "bytes_destino": 22630
+    },
+    {
+      "destino": "assets/landing/logo-plagio.webp",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/assets/landing/logo-plagio.webp",
+      "bytes": 10764,
+      "sha256_origem": "ae2598d91539b095d75f0508c495baa12998be45272ce59505a7cf4978f1ef43",
+      "sha256_destino": "ae2598d91539b095d75f0508c495baa12998be45272ce59505a7cf4978f1ef43",
+      "alterado": false,
+      "bytes_destino": 10764
+    },
+    {
+      "destino": "cartilha.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/cartilha.html",
+      "bytes": 7581,
+      "sha256_origem": "d945dddcba5406d0bf7d5e9760159f81612a576c6434cbe7f101c31d9c46bf9f",
+      "sha256_destino": "b83adadba3ee99c4ec26f2dc02cd7eb8c50fd5d14259963d724d62cde602d0a7",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 7446
+    },
+    {
+      "destino": "css/institucional.css",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/css/institucional.css",
+      "bytes": 15082,
+      "sha256_origem": "11cd5153778bceac741a477c406c6af5bb1a98b643c29d173bdcedcec424131e",
+      "sha256_destino": "11cd5153778bceac741a477c406c6af5bb1a98b643c29d173bdcedcec424131e",
+      "alterado": false,
+      "bytes_destino": 15082
+    },
+    {
+      "destino": "css/landing/landing-responsive.css",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/css/landing/landing-responsive.css",
+      "bytes": 5719,
+      "sha256_origem": "c92c2ec12206d4f28da3d702bce724cdfe5287eae31f14287737f643f9a2784a",
+      "sha256_destino": "c92c2ec12206d4f28da3d702bce724cdfe5287eae31f14287737f643f9a2784a",
+      "alterado": false,
+      "bytes_destino": 5719
+    },
+    {
+      "destino": "css/landing/landing.css",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/css/landing/landing.css",
+      "bytes": 20124,
+      "sha256_origem": "c2689d3fd70b21aa166aa96f5327fe2e2707034df9e53989b3ea234afda6aff7",
+      "sha256_destino": "afb7cee24e06d58fe6f9ecb536a9cc48df81f7afb2d8d49b22eb74c233752626",
+      "alterado": true,
+      "ajuste": "Regra mínima para preservar o sublinhado original dos links suspensos sem href, na conta do hero e no rodapé da landing.",
+      "bytes_destino": 20328
+    },
+    {
+      "destino": "equipe.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/equipe.html",
+      "bytes": 10235,
+      "sha256_origem": "0528aef014093f754efa19757ae9d29c54ee6943b64ea568a330d707f46f634b",
+      "sha256_destino": "def4505620641a6ae223e1d96c8ad458b96dd3eda2af55f23a28d3a8461be4d4",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 10173
+    },
+    {
+      "destino": "favicon.ico",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/favicon.ico",
+      "bytes": 32038,
+      "sha256_origem": "318b789ff098a057c98c8bd9565b66e4d0b5e099b1ab06332e87ae25f8f7410a",
+      "sha256_destino": "318b789ff098a057c98c8bd9565b66e4d0b5e099b1ab06332e87ae25f8f7410a",
+      "alterado": false,
+      "bytes_destino": 32038
+    },
+    {
+      "destino": "js/institucional.js",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/js/institucional.js",
+      "bytes": 2162,
+      "sha256_origem": "8c2437e96725e1a7edea5d9052993ba0a3d1c1c1f3e474f30b5054e856083b26",
+      "sha256_destino": "8c2437e96725e1a7edea5d9052993ba0a3d1c1c1f3e474f30b5054e856083b26",
+      "alterado": false,
+      "bytes_destino": 2162
+    },
+    {
+      "destino": "js/landing.js",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/js/landing.js",
+      "bytes": 15485,
+      "sha256_origem": "14c9d8979a6303eb7c722c5df3cf96083186fbf732d33413931058720e674734",
+      "sha256_destino": "14c9d8979a6303eb7c722c5df3cf96083186fbf732d33413931058720e674734",
+      "alterado": false,
+      "bytes_destino": 15485
+    },
+    {
+      "destino": "js/theme.js",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/js/theme.js",
+      "bytes": 3181,
+      "sha256_origem": "59dcf7634c89541470f2fb80c2f74725d26f9d8220ff76907e8a23209ef8f20d",
+      "sha256_destino": "59dcf7634c89541470f2fb80c2f74725d26f9d8220ff76907e8a23209ef8f20d",
+      "alterado": false,
+      "bytes_destino": 3181
+    },
+    {
+      "destino": "landing.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/landing.html",
+      "bytes": 16443,
+      "sha256_origem": "0f703bf694b3972d94f957a087b27e2a4b415979c15f1bdf2ebac0717a20d0c2",
+      "sha256_destino": "936a76d381bf9b991347908a031f794f9394a629c0b1ac439e741612ee77967c",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 15331
+    },
+    {
+      "destino": "materiais.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/materiais.html",
+      "bytes": 8170,
+      "sha256_origem": "5907e69e0fa787604aca1650d52461bdda9f525af7d9ea172611ff05c5c361cd",
+      "sha256_destino": "13a1f94d5469ca64ee27d9a38c7f2ba233802d46eaa5808844a3451daeb745d8",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 8107
+    },
+    {
+      "destino": "parceiros.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/parceiros.html",
+      "bytes": 7820,
+      "sha256_origem": "4574b358ee41ec0f449b5dc5156b4d4b2ee61f322bbe14a8afff1eec386d3ef7",
+      "sha256_destino": "35edb5f33720351158399a38681d28d13804c95d7c74085c02ec34c076178174",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 7767
+    },
+    {
+      "destino": "perguntas-frequentes.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/perguntas-frequentes.html",
+      "bytes": 7594,
+      "sha256_origem": "a55dcc1baac5f43013fa2349710b47139935fac884c4441e1c579db400e0b1f1",
+      "sha256_destino": "13553020b371734f4c31941059b708f847594512ed1e474b2035327771975440",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 7227
+    },
+    {
+      "destino": "sobre.html",
+      "origem": "/mnt/disco/projetoSite/plataforma_cursos/src/public/sobre.html",
+      "bytes": 8164,
+      "sha256_origem": "4188cb4f6c0091e9a40be5f064ad27a54a18dbb4b5478c95782591e77885d8f1",
+      "sha256_destino": "e2b1b62d0b7622d844035e6f0e1ab1650d11ff9b6d41d7a8527703eb3e0ef5eb",
+      "alterado": true,
+      "ajuste": "Suspensão solicitada pelo usuário: links de plataforma/login/cadastro sem href; aparência e texto preservados, aria-disabled=true.",
+      "bytes_destino": 7913
+    }
+  ],
+  "dependencias_externas": [
+    {
+      "url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4738929D1",
+      "paginas": [
+        "equipe.html"
+      ]
+    },
+    {
+      "url": "https://1drv.ms/b/s!AqqpbKeTHqetnotjCkC18kt1Yqs7Fg?e=mgDEKC",
+      "paginas": [
+        "equipe.html"
+      ]
+    },
+    {
+      "url": "https://fonts.googleapis.com",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html",
+        "landing.html",
+        "materiais.html",
+        "parceiros.html",
+        "perguntas-frequentes.html",
+        "sobre.html"
+      ]
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300..700&family=Work+Sans:wght@300;400;500;600;700&display=swap",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html",
+        "landing.html",
+        "materiais.html",
+        "parceiros.html",
+        "perguntas-frequentes.html",
+        "sobre.html"
+      ]
+    },
+    {
+      "url": "https://fonts.gstatic.com",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html",
+        "landing.html",
+        "materiais.html",
+        "parceiros.html",
+        "perguntas-frequentes.html",
+        "sobre.html"
+      ]
+    },
+    {
+      "url": "https://repositorio.utfpr.edu.br/jspui/handle/1/2902",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html"
+      ]
+    },
+    {
+      "url": "https://seisicite.com.br/storage/seisicite-trabalhos-finais/470-b71c56b9c21dc17eab586af0ffef8c95d41d89678cee35936d2eebe26ed7a646.pdf",
+      "paginas": [
+        "equipe.html"
+      ]
+    },
+    {
+      "url": "https://www.instagram.com/plagio.utfpr/",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html",
+        "landing.html",
+        "materiais.html",
+        "parceiros.html",
+        "perguntas-frequentes.html",
+        "sobre.html"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@plagioutfpr",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html",
+        "landing.html",
+        "materiais.html",
+        "parceiros.html",
+        "perguntas-frequentes.html",
+        "sobre.html"
+      ]
+    }
+  ],
+  "rotas_da_plataforma_suspensas": [
+    {
+      "rota": "/cadastro.html",
+      "paginas": [
+        "landing.html"
+      ]
+    },
+    {
+      "rota": "/index.html",
+      "paginas": [
+        "cartilha.html",
+        "equipe.html",
+        "landing.html",
+        "materiais.html",
+        "parceiros.html",
+        "perguntas-frequentes.html",
+        "sobre.html"
+      ],
+      "observacao": "Rota histórica do catálogo original excluído. O novo index.html desta entrega é somente a página institucional; os controles do catálogo continuam suspensos."
+    },
+    {
+      "rota": "/login.html",
+      "paginas": [
+        "landing.html"
+      ]
+    }
+  ],
+  "suspensao_links_por_pagina": {
+    "cartilha.html": 0,
+    "equipe.html": 0,
+    "landing.html": 0,
+    "materiais.html": 0,
+    "parceiros.html": 0,
+    "perguntas-frequentes.html": 0,
+    "sobre.html": 0,
+    "index.html": 0
+  },
+  "nota_publicacao": "index.html é a cópia institucional de landing.html, com caminhos relativos. Todos os controles de acesso à plataforma foram removidos; os serviços da plataforma continuam excluídos.",
+  "acessos_plataforma": "Controles de acesso removidos da interface por solicitação do usuário; login, cadastro e catálogo continuam indisponíveis.",
+  "controles_plataforma_removidos_por_pagina": {
+    "cartilha.html": 2,
+    "equipe.html": 1,
+    "landing.html": 10,
+    "materiais.html": 1,
+    "parceiros.html": 1,
+    "perguntas-frequentes.html": 2,
+    "sobre.html": 3,
+    "index.html": 10
+  }
+}

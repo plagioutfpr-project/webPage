@@ -1,0 +1,206 @@
+{
+  "browser": "153.0.8010.12",
+  "base": "http://127.0.0.1:8767/paginaWEB/dist",
+  "reference": null,
+  "cases": [
+    {
+      "page": "index",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "index",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "landing",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "landing",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "sobre",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "sobre",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "equipe",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "equipe",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "cartilha",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "cartilha",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "parceiros",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "parceiros",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "materiais",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "materiais",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "perguntas-frequentes",
+      "width": 1440,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "perguntas-frequentes",
+      "width": 1440,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "index",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "landing",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "landing",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "sobre",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "sobre",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "equipe",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "equipe",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "cartilha",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "cartilha",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "parceiros",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "parceiros",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "materiais",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "materiais",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    },
+    {
+      "page": "perguntas-frequentes",
+      "width": 390,
+      "theme": "light",
+      "visualIdentical": null
+    },
+    {
+      "page": "perguntas-frequentes",
+      "width": 390,
+      "theme": "dark",
+      "visualIdentical": null
+    }
+  ],
+  "externalFailures": [],
+  "errors": [],
+  "downloads": 5,
+  "posterPreviews": 5,
+  "faq": true,
+  "scrollAnimation": true,
+  "withoutExternalResources": true
+}

@@ -1,0 +1,26 @@
+# Saída reproduzível da publicação
+/dist/
+
+# Dependências e ferramentas locais de teste
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+coverage/
+playwright-report/
+test-results/
+.wrangler/
+.dev.vars
+.env
+.env.*
+*.log
+
+# Arquivos de sistema e editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
+*.swp
